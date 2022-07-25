@@ -1,0 +1,26 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "Auf Ab"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "Brumm"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part2",
+			"Name": "Frosch 1"
+		},
+		{
+			"Id": "Part3",
+			"Name": "New group"
+		}
+	]
+}

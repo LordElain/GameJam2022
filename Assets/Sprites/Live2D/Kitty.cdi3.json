@@ -1,0 +1,35 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "Attack"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "Auf + Ab"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "Schweif"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "Arm R"
+		},
+		{
+			"Id": "Head",
+			"Name": "Head"
+		},
+		{
+			"Id": "Body",
+			"Name": "Body"
+		}
+	]
+}

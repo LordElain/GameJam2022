@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33463cd55a7f74eb0b185cea8fd7e9f7, type: 3}
+  m_Name: 39936379-9500-4DE3-A268-9D6A5B92F8AD
+  m_EditorClassIdentifier: 
+  objectName: Kitty_Hurt
+  id: 3955383082
+  guid: 39936379-9500-4DE3-A268-9D6A5B92F8AD
